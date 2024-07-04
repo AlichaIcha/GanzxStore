@@ -5,7 +5,7 @@ const settings = {
     metaDescription: "Store & Creator",
     metaKeywords: "Ganxz , profil, siapa Ganxz?",
     metaRobots: "index, follow",
-    profileImage: "profile.jpg",
+    profileImage: "profile.png",
     name: "Ganxz Store ",
     occupation: "Creator & Store",
     location: "📍 Bekasi, Jawa Barat, Indonesia",
